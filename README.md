@@ -6,4 +6,4 @@ these units save and are permanent, you can pick them up so you basically just d
 
 Some leaderboard player use this btw
 
-loadstring(game:HttpGet("https://pastebin.com/raw/7Lpv43zb"))
+loadstring(game:HttpGet("https://pastebin.com/raw/7Lpv43zb"))()
