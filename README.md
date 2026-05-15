@@ -6,4 +6,4 @@ these units save and are permanent, you can pick them up so you basically just d
 
 Some leaderboard player use this btw
 IMPORTANT: THE SLOT SELECTER ACTUALLY IS WHICH PLAYER YOU ARE SO COUNT WHICH PLOT YOU ARE ON FROM THE LEFT SIDE OF THE MAP AND THEN PICK THE CORRECT SLOT
-loadstring(game:HttpGet("https://pastebin.com/raw/7Lpv43zb"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/5DW4vRqH"))()
